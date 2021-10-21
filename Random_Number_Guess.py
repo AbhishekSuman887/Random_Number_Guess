@@ -1,3 +1,5 @@
+#Will start witing the code soon, that will handle Exceptions!
+
 import random
 
 print("Welcome to this Game!\nYou need to Guess a number between 0 and 100 ")
